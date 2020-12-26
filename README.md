@@ -1,4 +1,4 @@
-## This is a collection of data related to The Super Mario World and its characters
+## This is a collection of fictional data related to The Super Mario World and its characters
 
 
 | id  | first_name      | last_name       | age | year_of_birth | sex               | birth_place                    | nationality     | occupation        | created_at          | updated_at |
